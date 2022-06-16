@@ -1,6 +1,6 @@
 {
   "name": "jds-str-helpers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "package will provide some usefull string helper funcions",
   "main": "index.js",
   "scripts": {
