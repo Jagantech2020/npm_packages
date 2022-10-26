@@ -1,14 +1,10 @@
 {
-  "name": "jds-str-helpers",
-  "version": "1.0.1",
+  "name": "@jaganrajtech/jds-str-helpers",
+  "version": "1.0.0",
   "description": "package will provide some usefull string helper funcions",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Jagantech2020/npm_packages.git"
   },
   "keywords": [
     "JDS"
